@@ -1,0 +1,32 @@
+body {
+    display: block;
+    text-align: center;
+}
+
+#lettres, #container_mot {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.lettreMot {
+    margin: 5px;
+    padding: 5px;
+}
+
+.container_tentative {
+    display: flex;
+    justify-content: center;
+}
+
+.lettre {
+    margin: 5px;
+    padding: 5px;
+    background-color: darkgray;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+.container_button {
+    margin: 20px;
+}
