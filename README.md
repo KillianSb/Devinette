@@ -13,7 +13,7 @@ Jeu de devinette (Pendu) développer en JavaScript.
 
 ## Lancement du projet
 
-1- Cloner le projet a l'endroit souhaiter.
+1- Cloner le projet a l'endroit souhaité.
 
 2- Ouvrir un invité de commande "CMD", ( Winwows + R puis ```cmd``` ).
 
