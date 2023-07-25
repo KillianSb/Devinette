@@ -2,7 +2,8 @@
  
 ------
 
-![image](https://github.com/KillianSb/Devinette/assets/27457778/efdb20ea-732c-4bf9-b90a-bf6684ebbfc4)
+![Capture d’écran 2023-07-25 234054](https://github.com/KillianSb/Devinette/assets/27457778/02b37a52-5b99-47a3-862c-8fe4feed2410)
+
 
 ## Description
 
