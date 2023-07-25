@@ -169,12 +169,12 @@ function verif_victoire(tab_motAChercher,tab_motAfficher) {
 
         if (nombre === 5) {
             alert("Vous avez gagné avec le meilleur score ! \n" +
-                (nb_lettre * nombre) + " points !\n" +
+                (nb_lettre * 5) + " points !\n" +
                 "Bravo !");
             location.reload();
         }else {
             alert("Vous avez gagné avec " + (nb_lettre * nombre) + " points !\n" +
-                "Le meilleur score est de " + (5 * nombre) + " !");
+                "Le meilleur score est de " + (nb_lettre * 5) + " !");
             location.reload();
         }
     }
