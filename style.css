@@ -1,6 +1,7 @@
 body {
     display: block;
     text-align: center;
+    margin-top: 25em;
 }
 
 #lettres, #container_mot {
